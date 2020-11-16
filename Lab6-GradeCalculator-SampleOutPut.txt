@@ -1,0 +1,77 @@
+WELCOME CISC 3130 GRADEING CALCULATOR 
+Enter in all of your grades. Leave blank for ungraded work
+Enter in your Lab grades
+Labs[1]:
+0
+Labs[2]:
+0
+Labs[3]:
+0
+Labs[4]:
+0
+Labs[5]:
+0
+Labs[6]:
+
+Labs[7]:
+
+Enter in your Practice Problem grades
+Pracrice Problem[1]:
+0
+Pracrice Problem[2]:
+6
+Pracrice Problem[3]:
+0
+Pracrice Problem[4]:
+6
+Pracrice Problem[5]:
+6
+Pracrice Problem[6]:
+6
+Pracrice Problem[7]:
+
+Pracrice Problem[8]:
+
+Enter in your Test grades
+Test[1]:
+8.5
+Test[2]:
+7
+Test[3]:
+
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+				Current Grades
+assignment        |[1]| [2]| [3]| [4]| [5]| [6]| [7]| [8]
+Practice Problems |  0|   6|   0|   6|   6|   6|   -1|   -1
+Lab               |  0|   0|   0|   0|   0|   -1|   -1|   
+Test              |8.5| 7.0| -1.0|   
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Enter first letter of show add grades, edit a grade, show grades, calculate current grade, wanted letter grade:  
+e
+Enter the first letter of the assiment you want to changer lab,practice problem, or test
+l
+Enter the Lab number
+6
+Enter the new grade
+2
+Enter first letter of show add grades, edit a grade, show grades, calculate current grade, wanted letter grade:  
+s
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+				Current Grades
+assignment        |[1]| [2]| [3]| [4]| [5]| [6]| [7]| [8]
+Practice Problems |  0|   6|   0|   6|   6|   6|   -1|   -1
+Lab               |  0|   0|   0|   0|   0|   2|   -1|   
+Test              |8.5| 7.0| -1.0|   
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+Enter first letter of show add grades, edit a grade, show grades, calculate current grade, wanted letter grade:  
+c
+Your current grade is: 41.5
+Enter first letter of show add grades, edit a grade, show grades, calculate current grade, wanted letter grade:  
+w
+Enter the letter grade you want
+c
+You need to get 4.0 Lab 7
+You need to get 6.0 Practice Problem 7
+You need to get 6.0 Practice Problem 8
+You need to get  12.5 test3
+Enter first letter of show add grades, edit a grade, show grades, calculate current grade, wanted letter grade:  
